@@ -1,0 +1,35 @@
+<ion-toolbar>
+    <div style="text-align:center">Login</div>
+</ion-toolbar>
+
+<ion-content class="swiper-no-swiping">
+    <ion-slides>
+    <ion-slide>
+      <div class="slide-inner ion-padding"> 
+       
+
+        <ion-item class="ion-margin-top" lines="none">
+          <ion-input type="email" placeholder="E-mail" [(ngModel)]="userLogin.email" ></ion-input>
+        </ion-item>
+
+        <ion-item class="ion-margin-top" lines="none">
+          <ion-input type="password" placeholder="Senha" [(ngModel)]="userLogin.password" ></ion-input>
+        </ion-item>
+
+        <ion-button  class="ion-margin-top" (click)="login()" color="light" expand="block"  >
+          Entrar
+        </ion-button>
+
+       
+        <p></p>
+        <p></p>
+        
+        <ion-button routerLink="/cadastro"  >
+          Fazer cadastro
+        </ion-button>
+      </div>
+      
+    </ion-slide>
+   
+  </ion-slides>  
+</ion-content>

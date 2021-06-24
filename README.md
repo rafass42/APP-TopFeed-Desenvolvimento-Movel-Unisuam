@@ -7,6 +7,8 @@ O app exibe em forma de feed os melhores filmes e series ranqueados de acordo co
 
 
 
+Comandos:
+
 "npm install @angular/compiler" para baixar o angular.
 
 

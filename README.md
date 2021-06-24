@@ -4,7 +4,7 @@ O app consome a API do "themoviesdb" e o login e cadastro é feito via firebase.
 
 O app exibe em forma de feed os melhores filmes e series ranqueados de acordo com o site e mostra também os filmes em exibição no cinema no momento.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Comandos:

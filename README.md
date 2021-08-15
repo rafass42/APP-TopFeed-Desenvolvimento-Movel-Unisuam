@@ -1,4 +1,4 @@
-APP feito com ionic/angular. O APK pode ser gerado com Android Studio via capacitor.
+APP feito com ionic/angular, no **VScode**. O APK pode ser gerado com Android Studio via capacitor.
 
 O app consome a API do "themoviesdb" e o login e cadastro é feito via firebase.
 
